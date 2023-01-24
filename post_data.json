@@ -1,0 +1,9 @@
+{
+  "name": "Rossens/Kalin API test",
+  "description": "Rossens API test from bash",
+  "price": 1.232,
+  "quantity": 23,
+  "is_on_stock": false,
+  "pickup_method": "personal",
+  "comment": { "data": "hellosd", "name": "Petar Bogdanov" }
+}
